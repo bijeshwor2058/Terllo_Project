@@ -1,0 +1,6 @@
+.container{
+  border: 1px solid whitesmoke;
+  margin-bottom: 12px;
+  box-shadow: 2px 2px 2px rgba(178, 210, 229, 0.5);
+  width: 100%;
+}
